@@ -60,8 +60,8 @@ export default {
 
     return {
 
-      token: '0ec0194b227b52871b7fb9004877a5a6dbd78d9d00e7c3f9d604c9c742168831',
-      key: '5f39fd32ce375d936870391efedad435',
+      token: 'your_token',
+      key: 'your_key',
       boards: {},
       listFromBoard:{},
       cardsFromList: [],
